@@ -3,12 +3,18 @@
   "displayName": "Lucy Edgerunner Theme",
   "description": "A theme inspired by the character Lucy from Cyberpunk: Edgerunners",
   "version": "0.0.1",
+  "publisher": "JaviMGG",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaviMGG/lucy-edgerunner"
+  },
   "contributes": {
     "themes": [
       {
