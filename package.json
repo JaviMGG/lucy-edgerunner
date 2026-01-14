@@ -1,0 +1,21 @@
+{
+  "name": "lucy-edgerunner",
+  "displayName": "Lucy Edgerunner Theme",
+  "description": "A theme inspired by the character Lucy from Cyberpunk: Edgerunners",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lucy Edgerunner Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lucy Edgerunner Theme-color-theme.json"
+      }
+    ]
+  }
+}
