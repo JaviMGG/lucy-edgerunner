@@ -1,7 +1,7 @@
 # Lucy Edgerunner Theme
 
 <p align="center">
-  <img src="./icon.png" alt="Lucy Edgerunner Theme Logo" width="128"/>
+  <img src="./icon.png" alt="Lucy Edgerunner Theme Logo" width="300"/>
 </p>
 
 A standard code theme for Visual Studio Code inspired by the aesthetics of **Lucy** from _Cyberpunk: Edgerunners_. It features a dark background with neon accents in electric blue, hot pink, and bright yellow, designed for high contrast and modern vibes.
@@ -36,6 +36,12 @@ If you have the `.vsix` file:
 
 This theme is open source.  
 Repository: [https://github.com/JaviMGG/lucy-edgerunner](https://github.com/JaviMGG/lucy-edgerunner)
+
+<p align="center">
+  <img src="./images/imagelucy1.png" alt="imagelucy1" width="1000"/>
+  <img src="./images/imagelucy2.png" alt="imagelucy2" width="1000"/>
+  <img src="./images/imagelucy3.png" alt="imagelucy3" width="1000"/>
+</p>
 
 ## License
 
