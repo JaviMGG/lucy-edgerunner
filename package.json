@@ -2,7 +2,7 @@
   "name": "lucy-edgerunner",
   "displayName": "Lucy Edgerunner Theme",
   "description": "A theme inspired by the character Lucy from Cyberpunk: Edgerunners",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JaviMGG",
   "engines": {
     "vscode": "^1.70.0"
