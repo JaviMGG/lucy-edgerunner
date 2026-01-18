@@ -251,7 +251,7 @@
     },
     {
       "scope": ["string", "punctuation.definition.string"],
-      "settings": { "foreground": "#00f3ff" }
+      "settings": { "foreground": "#e4a349" }
     },
     {
       "scope": ["entity.name.function", "support.function"],
