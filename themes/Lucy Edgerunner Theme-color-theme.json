@@ -26,9 +26,6 @@
     "editor.lineHighlightBorder": "#151725",
     "editor.rangeHighlightBackground": "#151725e3",
     
-    //"editorIndentGuide.background": "#1e2130f2",
-    //"editorIndentGuide.activeBackground": "#ff0055",
-    
     "textLink.foreground": "#00f3ff",
     "textLink.activeForeground": "#ff0055",
     
@@ -212,8 +209,8 @@
     "terminal.ansiBrightCyan": "#80f9ff",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.selectionBackground": "#ff005540",
-    "terminalCursor.background": "#00f3ff",
-    "terminalCursor.foreground": "#000000",
+    "terminalCursor.background": "#000000",
+    "terminalCursor.foreground": "#00f3ff",
     
     "debugToolBar.background": "#151725",
     "debugToolBar.border": "#ff0055",
@@ -251,11 +248,11 @@
     },
     {
       "scope": ["string", "punctuation.definition.string"],
-      "settings": { "foreground": "#e4a349" }
+      "settings": { "foreground": "#e889f4" }
     },
     {
       "scope": ["entity.name.function", "support.function"],
-      "settings": { "foreground": "#dbebf7", "fontStyle": "italic" }
+      "settings": { "foreground": "#bc1bf2", "fontStyle": "italic" }
     },
     {
       "scope": "variable",
